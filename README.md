@@ -32,5 +32,3 @@ Through this project we got to learn a lot about Machine Learning and AI Models,
 During the course of this project, we got to comprehend various research articles which supplemented us in writing an optimised code and intricately understanding the mechanism of machine learning.
 
 
-Slide Deck: https://www.canva.com/design/DAFeLZY7kl0/l0lJPm2g_oI6o0asUG6KxQ/view?utm_content=DAFeLZY7kl0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-
